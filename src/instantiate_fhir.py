@@ -1,5 +1,4 @@
 import json
-from datetime import datetime
 from fhir.resources.questionnaireresponse import QuestionnaireResponse
 from fhir.resources.questionnaire import Questionnaire
 from fhir.resources.patient import Patient
